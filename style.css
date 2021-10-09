@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.main{
+    position: relative;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(146, 146, 194),rgb(107, 103, 103));
+    overflow: hidden;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    margin: 100px auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+}
+
+.btn:hover{
+    background-color: rgb(255, 162, 162);
+}
